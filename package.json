@@ -1,0 +1,32 @@
+{
+  "name": "proper_bookings",
+  "version": "1.0.0",
+  "description": "book you experience",
+  "main": "app.js",
+  "scripts": {
+    "startDev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxthestranger/proper_bookings_web.git"
+  },
+  "keywords": [
+    "proper_bookings",
+    "booking",
+    "proper",
+    "proper",
+    "booking",
+    "tickets",
+    "mtickets",
+    "turn",
+    "app",
+    "packahges",
+    "tour"
+  ],
+  "author": "Max The Stranger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxthestranger/proper_bookings_web/issues"
+  },
+  "homepage": "https://github.com/maxthestranger/proper_bookings_web#readme"
+}
