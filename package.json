@@ -4,7 +4,7 @@
   "description": "book you experience",
   "main": "app.js",
   "scripts": {
-    "startDev": "echo \"Error: no test specified\" && exit 1"
+    "startDev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,13 @@
   "bugs": {
     "url": "https://github.com/maxthestranger/proper_bookings_web/issues"
   },
-  "homepage": "https://github.com/maxthestranger/proper_bookings_web#readme"
+  "homepage": "https://github.com/maxthestranger/proper_bookings_web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
